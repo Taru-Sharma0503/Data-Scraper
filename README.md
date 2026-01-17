@@ -36,3 +36,6 @@ Prints each book’s details to the console
 Uses BeautifulSoup for HTML parsing and navigation
 
 ## Screenshots 📸
+![output](https://github.com/user-attachments/assets/b6aef13a-b02c-434f-a91e-e580e8cab032)
+![output-2](https://github.com/user-attachments/assets/5d140ad1-193e-4818-81b7-6e7734093888)
+
